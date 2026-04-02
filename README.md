@@ -20,3 +20,5 @@ Hola este es un juegito, bueno recreacion del juego de la viborita
 1. **Clonar el repositorio:**
    ```bash
    https://kevinreyes-garcia-rgb.github.io/Serpiente-V4/
+
+[Snake](https://kevinreyes-garcia-rgb.github.io/Serpiente-V4/)
